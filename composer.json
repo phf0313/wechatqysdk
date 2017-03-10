@@ -1,0 +1,26 @@
+{
+    "name": "phf0313/wechatqysdk",
+    "description": "微信企业号sdk，PHP版本",
+    "type": "library",
+    "keywords": [
+        "wechat",
+        "sdk"
+    ],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "phf0313",
+            "email": "phf0313@qq.com"
+        }
+    ],
+     "repositories": {
+    	"packagist": {
+        	"type": "composer",
+        	"url": "https://packagist.phpcomposer.com"
+    	}
+	},
+    "require": {
+        "php": ">=5.4.0"
+    }
+    
+}
